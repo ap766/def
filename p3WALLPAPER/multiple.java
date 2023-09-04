@@ -80,3 +80,6 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         },0,30000); } }
+
+
+         <uses-permission android:name="android.permission.SET_WALLPAPER"/>
